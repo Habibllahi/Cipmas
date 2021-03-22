@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_green">#FF004D40</color>
+    <color name="leaf_green">#FF06F63A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_orange">#FF9800</color>
+    <color name="card_texts_color">@color/black</color>
+    <color name="light_orange">#FFFFC107</color>
+</resources>

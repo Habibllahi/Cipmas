@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/quotation_item"
+        android:title="@string/quotation" />
+    <item
+        android:id="@+id/material_item"
+        android:title="@string/material" />
+    <item
+        android:id="@+id/supplier_item"
+        android:title="@string/supplier" />
+    <item
+        android:id="@+id/customer_item"
+        android:title="@string/customer" />
+
+</menu>
